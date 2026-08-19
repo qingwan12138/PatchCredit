@@ -1,0 +1,22 @@
+{
+  "workflow": "novelty-check-revision",
+  "run_id": "20260819_123200",
+  "timestamp": "2026-08-19T12:32:00+08:00",
+  "language": "zh-CN",
+  "as_of": "2026-08-19",
+  "input": "PatchCredit revision after TRIM competitor discovery and thesis-innovation restructuring",
+  "status": "completed",
+  "pilot_executed": false,
+  "primary_framework": "PatchCredit",
+  "backup_framework": "CostWitness (conditional)",
+  "revision": {
+    "main_innovation": "Dependency-aware Performance Credit & Interaction Modeling",
+    "support_1": "Budgeted Interaction Sampling",
+    "support_2": "Performance-guided Patch Recomposition",
+    "demoted": [
+      "Patch minimization as novelty",
+      "Motif Distiller as formal innovation"
+    ],
+    "added_competitor": "TRIM (arXiv:2607.18161)"
+  }
+}
